@@ -1,4 +1,4 @@
-SMart Image Resizer
+Smart Image Resizer
 ===================
 
 A ridiculously easy-to-use PHP script for resizing images the smart way.
