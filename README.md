@@ -1,8 +1,10 @@
 Smart Image Resizer
 ===================
 
-A ridiculously easy-to-use PHP script for resizing images the smart way.
+*Depreciated* use https://github.com/paulbunyannet/image.php instead
 
-Created by: Joe Lencioni (http://shiftingpixel.com)
+~~A ridiculously easy-to-use PHP script for resizing images the smart way.~~
 
-Documentation at http://shiftingpixel.com/2008/03/03/smart-image-resizer/
+~~Created by: Joe Lencioni (http://shiftingpixel.com)~~
+
+~~Documentation at http://shiftingpixel.com/2008/03/03/smart-image-resizer/~~
