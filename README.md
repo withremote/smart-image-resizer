@@ -1,7 +1,7 @@
 Smart Image Resizer
 ===================
 
-*Depreciated* use https://github.com/paulbunyannet/image.php instead
+**Depreciated** use https://github.com/paulbunyannet/image.php instead
 
 ~~A ridiculously easy-to-use PHP script for resizing images the smart way.~~
 
